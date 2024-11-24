@@ -9,7 +9,7 @@ const signup = () => {
     <div className='container'>
         <div className="header">
             <div className="text">
-                <p>signup</p>
+                <p>Sign Up</p>
             </div>
         </div>
         <div className="inputs">
@@ -36,7 +36,7 @@ const signup = () => {
 
         <div className="signup-container">
             <div className="signup">
-                Sign Up
+                <button> Sign Up</button>
             </div>
         </div>
       
