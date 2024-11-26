@@ -5,6 +5,7 @@
     padding:20px;
     border-radius: 10px;
     color:black;
+    box-shadow: 5px 5px 10px rgb(10, 10, 10);
 }
 .text p{
     font-weight: 500;
